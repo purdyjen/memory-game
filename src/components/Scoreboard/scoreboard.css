@@ -1,0 +1,50 @@
+h5,
+h4 {
+  color: #fff;
+  display: inline;
+  cursor: default;
+}
+
+#current-score {
+  position: absolute;
+  left: 0;
+  padding-left: 10px;
+}
+
+#high-score {
+  position: absolute;
+  right: 0;
+  padding-right: 10px;
+}
+
+.scoreB {
+  margin-bottom: 10px;
+}
+
+
+.alert-danger {
+  font-size: x-large;
+  text-transform: uppercase;
+  color: red;
+  text-align: center;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 auto;
+  cursor: default;
+
+}
+
+.alert-success {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: blue;
+  text-align: center;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+}

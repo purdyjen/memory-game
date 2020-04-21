@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "C-3PO",
+    "image": "../../images/C3PO.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chewie",
+    "image": "../../images/Chewie.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Han",
+    "image": "../../images/Han.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lando",
+    "image": "../../images/Lando.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Leia",
+    "image": "../../images/Leia.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Luke",
+    "image": "../../images/Luke.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Obi-Wan",
+    "image": "../../images/Obi-wan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Palpatine",
+    "image": "../../images/Palpatine.jpg"
+  },
+  {
+    "id": 9,
+    "name": "R2-D2",
+    "image": "../../images/R2D2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Stormtrooper",
+    "image": "../../images/Stormtrooper.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vader",
+    "image": "../../images/Vader.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Yoda",
+    "image": "../../images/Yoda.jpg"
+  }
+]
