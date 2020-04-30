@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "C-3PO",
-    "image": "../../images/C3PO.jpg"
+    "image": "../public/images/C3PO.jpg"
   },
   {
     "id": 2,
     "name": "Chewie",
-    "image": "../../images/Chewie.jpg"
+    "image": "../public/images/Chewie.jpg"
   },
   {
     "id": 3,
     "name": "Han",
-    "image": "../../images/Han.jpg"
+    "image": "../public/images/Han.jpg"
   },
   {
     "id": 4,
     "name": "Lando",
-    "image": "../../images/Lando.jpg"
+    "image": "../public/images/Lando.jpg"
   },
   {
     "id": 5,
     "name": "Leia",
-    "image": "../../images/Leia.jpg"
+    "image": "../public/images/Leia.jpg"
   },
   {
     "id": 6,
     "name": "Luke",
-    "image": "../../images/Luke.jpg"
+    "image": "../public/images/Luke.jpg"
   },
   {
     "id": 7,
     "name": "Obi-Wan",
-    "image": "../../images/Obi-wan.jpg"
+    "image": "../public/images/Obi-wan.jpg"
   },
   {
     "id": 8,
     "name": "Palpatine",
-    "image": "../../images/Palpatine.jpg"
+    "image": "../public/images/Palpatine.jpg"
   },
   {
     "id": 9,
     "name": "R2-D2",
-    "image": "../../images/R2D2.jpg"
+    "image": "../public/images/R2D2.jpg"
   },
   {
     "id": 10,
     "name": "Stormtrooper",
-    "image": "../../images/Stormtrooper.jpg"
+    "image": "../public/images/Stormtrooper.jpg"
   },
   {
     "id": 11,
     "name": "Vader",
-    "image": "../../images/Vader.jpg"
+    "image": "../public/images/Vader.jpg"
   },
   {
     "id": 12,
     "name": "Yoda",
-    "image": "../../images/Yoda.jpg"
+    "image": "../public/images/Yoda.jpg"
   }
 ]
